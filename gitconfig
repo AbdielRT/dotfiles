@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abdiel.uveira@gmail.com
+	name = Abdiel Ramirez
